@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Equality Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gender Equality Page</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Gender equality is the state of equal ease of access to resources and opportunities regardless of gender, including economic participation and decision-making.</p>
+        </section>
+        <section>
+            <h2>Importance</h2>
+            <p>Gender equality is essential for sustainable development, as it enhances social, economic, and environmental progress.</p>
+        </section>
+        <section>
+            <h2>Actions</h2>
+            <p>Support initiatives that promote gender equality, empower women and girls, and challenge stereotypes and biases.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Gender Equality Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
